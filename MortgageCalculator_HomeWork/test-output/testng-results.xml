@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44670" started-at="2017-11-19T20:45:26Z" finished-at="2017-11-19T20:46:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44670" started-at="2017-11-19T20:45:26Z" finished-at="2017-11-19T20:46:11Z">
+      <class name="com.mortgage.calculator.MorgtageCalculator">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.mortgage.calculator.MorgtageCalculator@2b98378d]" name="setup" is-config="true" duration-ms="3716" started-at="2017-11-19T15:45:26Z" finished-at="2017-11-19T15:45:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="mortgageCalculator_Test()[pri:0, instance:com.mortgage.calculator.MorgtageCalculator@2b98378d]" name="mortgageCalculator_Test" duration-ms="35545" started-at="2017-11-19T15:45:30Z" finished-at="2017-11-19T15:46:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mortgageCalculator_Test -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.mortgage.calculator.MorgtageCalculator@2b98378d]" name="teardown" is-config="true" duration-ms="5390" started-at="2017-11-19T15:46:05Z" finished-at="2017-11-19T15:46:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.mortgage.calculator.MorgtageCalculator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
